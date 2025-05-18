@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab CI/CD-FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
@@ -26,10 +26,11 @@
 Sou Desenvolvedor de Software com forte atuação no desenvolvimento de soluções robustas para **backend e frontend**. Tenho experiência consolidada em projetos de grande porte, utilizando tecnologias modernas como:
 
 - Java (Spring Boot / Spring MVC)  
+- Python  
 - React.js, Vue.js e AngularJS  
 - Integrações com bancos Oracle, SQL Server, MySQL e PostgreSQL  
 - CI/CD com GitLab, **Docker**, **Rancher**, **Jenkins**, **Nginx** e **Kubernetes**  
-- Mensageria com RabbitMQ e Apache Kafka
+- Mensageria com RabbitMQ
 
 Trabalho com foco em **resultados**, **qualidade de código**, **boas práticas de engenharia de software (SOLID, Clean Architecture)** e **colaboração em equipe com metodologias ágeis**.
 
@@ -39,10 +40,10 @@ Trabalho com foco em **resultados**, **qualidade de código**, **boas práticas 
 
 ### 🔹 Backend
 - Java, Spring Boot, Spring MVC
-- Node.js, Python
+- Python, Node.js
 - REST APIs, Microsserviços
 - Princípios SOLID e Clean Architecture
-- Mensageria: RabbitMQ, Kafka
+- Mensageria: RabbitMQ
 
 ### 🔹 Frontend
 - React.js, Vue.js, AngularJS
@@ -72,10 +73,10 @@ Trabalho com foco em **resultados**, **qualidade de código**, **boas práticas 
 - Integração com Oracle (PL/SQL) e SQL Server  
 - Frontend com React.js, AngularJS e Vue.js  
 - CI/CD com GitLab, Docker, Rancher, Jenkins e Nginx  
-- Uso de mensageria com RabbitMQ/Kafka em microsserviços
+- Uso de mensageria com RabbitMQ em microsserviços
 
 **Desenvolvedor de Software I** (jun 2020 - jun 2022)  
-- Projetos web e mobile com Java, Node.js, React.js, Vue.js e Android  
+- Projetos web e mobile com Java, Python, Node.js, React.js, Vue.js e Android  
 - Automatização de processos com pipelines CI/CD  
 - Uso de Git, Docker e ambientes Linux
 
