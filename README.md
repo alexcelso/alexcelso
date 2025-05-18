@@ -5,6 +5,17 @@
   📍 Palhoça, Santa Catarina, Brasil
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+</p>
+
 ---
 
 ## 👨‍💻 Sobre mim
@@ -59,37 +70,4 @@ Trabalho com foco em **resultados**, **qualidade de código**, **boas práticas 
 - Projetos web e mobile com Java, Node.js, React.js, Vue.js e Android
 - Uso de Git, Docker e ambientes Linux
 
-**Analista de Aplicação e Infraestrutura I** (jun 2018 - jun 2020)
-- Suporte técnico de 1º e 2º nível
-- Manutenção de redes e hardware
-
----
-
-## 🎓 Formação Acadêmica
-
-- **Especialização em Engenharia e Ciências de Dados**  
-  Universidade do Sul de Santa Catarina (UNISUL) – 2018 a 2020
-
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-  Estácio – 2011 a 2014
-
----
-
-## 🌟 Destaques
-
-- Experiência em ambientes corporativos complexos e de alta demanda  
-- Forte capacidade de trabalho em equipe e uso de metodologias ágeis  
-- Foco contínuo em **qualidade**, **performance** e **manutenibilidade**
-
-> "_Tecnologia é sobre solução de problemas, e cada linha de código é uma oportunidade de criar algo extraordinário._"
-
----
-
-## 📬 Contato
-
-- 📧 E-mail: [alexmcmc@hotmail.com](mailto:alexmcmc@hotmail.com)  
-- 📞 Telefone: (48) 99990-3227  
-- 💼 LinkedIn: [linkedin.com/in/alex-martins-celso-66a5b53a](https://www.linkedin.com/in/alex-martins-celso-66a5b53a/)
-
----
-
+**Analista de Aplicação e Infraestrutura I** (jun 2018 - jun 2020
